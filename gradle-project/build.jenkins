@@ -1,0 +1,5 @@
+def build() {
+    sh './gradlew build'
+}
+
+return this;
